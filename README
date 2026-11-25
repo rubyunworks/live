@@ -1,4 +1,9 @@
 = Facets Live!
 
+<b>This project is retired.</b> It was an experiment from 2010, a web
+application for browsing the {Facets}[https://github.com/rubyworks/facets]
+API, and was never finished or released. The code remains here for
+reference.
+
 Facets Live! brings the API to the cloud.
 
